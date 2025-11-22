@@ -41,6 +41,7 @@ I'm uploading my journey on GitHub to stay consistent and improve daily.
 - Git & GitHub Workflow
 - Python Automation
 - Networking (OSI Model, TCP/IP, Subnetting)
+- Ethical Hacking
 
 ---
 
